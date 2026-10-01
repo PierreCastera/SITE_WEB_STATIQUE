@@ -1,0 +1,54 @@
+[
+  {
+    "sku": "p00001",
+    "nom": "GROWER",
+    "description": "Un couvercle pour transformer votre bocal en verre en un espace de germination pour votre noyau d’avocat.",
+    "photo": "",
+    "source": "https://www.greencrushedavocado.fr/product-page/grower",
+    "informations": [
+      { "titre": "Faire germer, tout simplement", "texte": "Le GROWER remplace les cure-dents habituellement utilisés pour maintenir un noyau d’avocat. Son design permet d’intégrer votre bocal à votre décoration intérieure." },
+      { "titre": "Choisir la taille de votre bocal", "texte": "Choisissez votre modèle à l’aide du guide des tailles disponible ci-dessous. Si votre bocal n’y figure pas, contactez-nous pour nous soumettre votre demande." },
+      { "titre": "Quel noyau utiliser ?", "texte": "La gamme propose trois tailles pour différents noyaux. Attention : le modèle TO63 est trop étroit pour les gros noyaux, notamment ceux de la variété Reed." },
+      { "titre": "Comment est-il fabriqué ?", "texte": "Les produits Green Crushed Avocado sont fabriqués par impression 3D, selon le procédé FDM de dépôt de matière en couches successives." }
+    ]
+  },
+  {
+    "sku": "p00002",
+    "nom": "HANGROWER",
+    "description": "La version suspendue du couvercle de germination, pour faire pousser votre noyau d’avocat en hauteur.",
+    "photo": "",
+    "source": "https://www.greencrushedavocado.fr/product-page/hangrower",
+    "informations": [
+      { "titre": "Une germination en suspension", "texte": "Le HANGROWER transforme un bocal en verre en un espace de germination pour un noyau d’avocat. Sa conception suspendue permet de l’installer en hauteur, dans des endroits difficiles à exploiter avec la méthode des cure-dents." },
+      { "titre": "Choisir la taille de votre bocal", "texte": "Choisissez votre modèle à l’aide du guide des tailles disponible ci-dessous. Si votre bocal n’y figure pas, contactez-nous pour nous soumettre votre demande." },
+      { "titre": "Quel noyau utiliser ?", "texte": "La gamme propose trois tailles pour différents noyaux. Attention : le modèle TO63 est trop étroit pour les gros noyaux, notamment ceux de la variété Reed." },
+      { "titre": "Comment est-il fabriqué ?", "texte": "Les produits Green Crushed Avocado sont fabriqués par impression 3D, selon le procédé FDM de dépôt de matière en couches successives." }
+    ]
+  },
+  {
+    "sku": "p00003",
+    "nom": "CLINGROWER",
+    "description": "Un couvercle de germination à ventouse, pour installer votre bocal sur une surface verticale.",
+    "photo": "",
+    "source": "https://www.greencrushedavocado.fr/product-page/clingrower",
+    "informations": [
+      { "titre": "Un bocal sur une surface verticale", "texte": "Le CLINGROWER transforme un bocal en verre en un espace de germination pour un noyau d’avocat. Sa fixation à ventouse permet de l’installer sur une surface verticale, là où la méthode des cure-dents ne permet pas de suspendre le bocal." },
+      { "titre": "Choisir la taille de votre bocal", "texte": "Choisissez votre modèle à l’aide du guide des tailles disponible ci-dessous. Si votre bocal n’y figure pas, contactez-nous pour nous soumettre votre demande." },
+      { "titre": "Quel noyau utiliser ?", "texte": "La gamme propose trois tailles pour différents noyaux. Attention : le modèle TO63 est trop étroit pour les gros noyaux, notamment ceux de la variété Reed." },
+      { "titre": "Comment est-il fabriqué ?", "texte": "Les produits Green Crushed Avocado sont fabriqués par impression 3D, selon le procédé FDM de dépôt de matière en couches successives." }
+    ]
+  },
+  {
+    "sku": "p00004",
+    "nom": "MAGROWER",
+    "description": "Un couvercle de germination magnétique, pour installer votre bocal sur une surface métallique.",
+    "photo": "",
+    "source": "https://www.greencrushedavocado.fr/product-page/magrower",
+    "informations": [
+      { "titre": "La germination avec une fixation magnétique", "texte": "Le MAGROWER transforme un bocal en verre en un espace de germination pour un noyau d’avocat. Sa conception magnétique permet de l’installer sur une surface métallique et d’explorer de nouveaux emplacements pour votre bocal." },
+      { "titre": "Choisir la taille de votre bocal", "texte": "Choisissez votre modèle à l’aide du guide des tailles disponible ci-dessous. Si votre bocal n’y figure pas, contactez-nous pour nous soumettre votre demande." },
+      { "titre": "Quel noyau utiliser ?", "texte": "La gamme propose trois tailles pour différents noyaux. Attention : le modèle TO63 est trop étroit pour les gros noyaux, notamment ceux de la variété Reed." },
+      { "titre": "Comment est-il fabriqué ?", "texte": "Les produits Green Crushed Avocado sont fabriqués par impression 3D, selon le procédé FDM de dépôt de matière en couches successives." }
+    ]
+  }
+]
