@@ -4,6 +4,10 @@ Première version des fiches GROWER, HANGROWER, CLINGROWER et MAGROWER, rédigé
 
 Les sources produit sont indiquées dans le champ `source` de chaque fiche. Les informations communes de fabrication et de compatibilité viennent de [votre FAQ](https://www.greencrushedavocado.fr/faq). Les photos et un mode d’emploi détaillé restent à ajouter : les pages consultées ne fournissaient pas de consignes précises d’installation, d’entretien ou de germination. Les prix et la disponibilité restent sur votre boutique.
 
+## Identité visuelle
+
+Le site utilise le logo IR04 fourni dans `assets/logo-gca.png` et la palette officielle : `#364028`, `#4D5A39`, `#6E8050`, `#83985F`, `#363630`, `#5C573B`, `#666042`, `#FFFDF8`. Les titres utilisent Montserrat Black (graisse 900) et les textes Montserrat. La police variable et sa licence SIL sont incluses dans `assets/fonts/` : aucun service de polices externe n’est nécessaire. Le logo sert également d’icône d’onglet.
+
 ## Modifier les fiches
 
 Les textes sont regroupés dans `contenus/produits.json`. Chaque fiche possède un SKU permanent au format `p` suivi de cinq chiffres (`p00001`, `p00002`, `p00003`, `p00004`). Le champ `sku` détermine le dossier et l’adresse de la fiche. Garder ce SKU même si le nom du produit change : les QR codes conserveront leur destination. Ne jamais réaffecter une ancienne adresse à un autre produit encore en circulation.

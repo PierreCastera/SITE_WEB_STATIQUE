@@ -21,12 +21,15 @@ function page(titre, description, contenu, prefixe) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="${echapper(description)}">
+  <meta name="theme-color" content="#364028">
   <title>${echapper(titre)} | Green Crushed Avocado</title>
+  <link rel="icon" type="image/png" href="${prefixe}assets/logo-gca.png">
+  <link rel="preload" href="${prefixe}assets/fonts/montserrat-variable.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="stylesheet" href="${prefixe}assets/style.css">
 </head>
 <body>
   <a class="skip" href="#contenu">Aller au contenu</a>
-  <header class="header"><a class="brand" href="${prefixe}index.html"><span class="brand-icon" aria-hidden="true">gca.</span><span>Green Crushed<br>Avocado</span></a><a class="site-link" href="https://greencrushedavocado.fr/">Notre site ↗</a></header>
+  <header class="header"><a class="brand" href="${prefixe}index.html"><img class="brand-logo" src="${prefixe}assets/logo-gca.png" alt="" width="48" height="66"><span>Green Crushed<br>Avocado</span></a><a class="site-link" href="https://greencrushedavocado.fr/">Notre site ↗</a></header>
   <main id="contenu">${contenu}</main>
   <footer><span>Green Crushed Avocado</span><a href="https://greencrushedavocado.fr/">Retrouvez-nous sur notre site ↗</a></footer>
 </body>
